@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AravindYadlapalli
-- 👀 I’m interested in Cybersecurity and Java Application Development
+- 👀 I’m interested in Cybersecurity and Java Application Development.
 - 🌱 I’m currently learning core Java and Ethical Hacking
 - 💞️ I’m looking to collaborate on Projects and Research
 - 📫 Reach me at [My Email ID](yadlapalli.aravindchowdary07@gmail.com)
